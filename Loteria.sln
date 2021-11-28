@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.514
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoteriaApi", "LoteriaApi\LoteriaApi.csproj", "{E059B622-0B32-4BAA-92C4-4747706983BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E059B622-0B32-4BAA-92C4-4747706983BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E059B622-0B32-4BAA-92C4-4747706983BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E059B622-0B32-4BAA-92C4-4747706983BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E059B622-0B32-4BAA-92C4-4747706983BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799326D9-CEFE-4A77-AD1E-F8067D4E0966}
+	EndGlobalSection
+EndGlobal
